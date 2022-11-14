@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amit K.
 - 👀 I’m interested in Software Developing
-- 🌱 I’m currently learning ASP.NET
+- 🌱 I’m currently learning ASP.NET/C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "You can reach me directly at hash.amitkumar@outlook.com"
 
